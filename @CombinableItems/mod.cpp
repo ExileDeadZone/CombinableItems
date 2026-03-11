@@ -7,4 +7,4 @@ logo="CombinableItems\data\logo.paa";
 logoOver="CombinableItems\data\logo.paa";
 action="https://steamcommunity.com/sharedfiles/filedetails/?id=3637996858";
 author="moldypenguins";
-version="1.2";
+version="1.3";

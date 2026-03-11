@@ -18,10 +18,10 @@
 [b]* Make sure the .bikey has been copied into your server keys folder.[/b]
 
 [h2]GITHUB:[/h2]
-[url=https://github.com/IsleOfTheDead/CombinableItems]https://github.com/IsleOfTheDead/CombinableItems[/url]
+[url=https://github.com/ExileDeadZone/CombinableItems]https://github.com/ExileDeadZone/CombinableItems[/url]
 
 [h2]CONTACT:[/h2]
-[url=https://discord.gg/isleofthedead][img]https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/discord.png[/img][/url]
+[url=https://discord.gg/ExileDeadZone][img]https://raw.githubusercontent.com/ExileDeadZone/.github/main/images/discord.png[/img][/url]
 
 [h2]LEGAL:[/h2]
 [b]REPACKING IS ALLOWED.[/b]
